@@ -32,11 +32,13 @@ Cross-modal flood change detection using optical and SAR images has become one o
    - `evalution.py`
 
 ### 3. Change Detection Results
+<p align="center">
+    <img src="Figs/Figure2.png"/> <br />
+   Visualization results of SD-Mamba compared to 22 lightweight SOTA methods on the CAU-Flood dataset, the red boxes are drawn to highlight the advantages of SD-Mamba..
+</p>
 
-CAUFlood datset:
-
-![image](https://github.com/user-attachments/assets/160a4f45-7cc2-4241-8425-a428bce15679)
-
-Wuhan dataset:
-
+<p align="center">
+    <img src="Figs/Figure3.png"/> <br />
+   Visualization results of SD-Mamba compared to 22 lightweight SOTA methods on the Wuhan dataset, the red boxes are drawn to highlight the advantages of SD-Mamba..
+</p>
 ![image](https://github.com/user-attachments/assets/166a397a-a2fa-4c2a-aef8-8e20ad5fa2f3)
