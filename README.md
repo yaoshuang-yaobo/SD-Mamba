@@ -41,10 +41,10 @@ Cross-modal flood change detection using optical and SAR images has become one o
 ### 3. Change Detection Results
 <p align="center">
     <img src="Figs/Figure2.png"/> <br />
-   mIoU curve, F1 curve, P-R curve, and training loss curve of SD-Mamba compared to 22 lightweight SOTA methods on the CAU-Flood dataset.
+   Visualization results of SD-Mamba compared to 22 lightweight SOTA methods on the CAUFlood dataset, the red boxes are drawn to highlight the advantages of SD-Mamba.
 </p>
 
 <p align="center">
     <img src="Figs/Figure3.png"/> <br />
-   Visualization results of SD-Mamba compared to 22 lightweight SOTA methods on the Wuhan dataset, the red boxes are drawn to highlight the advantages of SD-Mamba..
+    mIoU curve, F1 curve, P-R curve, and training loss curve of SD-Mamba compared to 22 lightweight SOTA methods on the Wuhan dataset.
 </p>
