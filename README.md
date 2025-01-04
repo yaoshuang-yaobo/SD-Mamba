@@ -23,7 +23,7 @@ Prerequisites for Python:
 
 Creating a virtual environment in terminal: conda create -n SD-Mamba python=3.8
 
-Installing necessary packages: pip install -r requirements.txt 
+Installing necessary packages: "pip install -r requirements.txt" 
 
 2.3 tran & test & evaluation
 
