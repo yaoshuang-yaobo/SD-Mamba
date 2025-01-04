@@ -16,25 +16,20 @@ Cross-modal flood change detection using optical and SAR images has become one o
   - [`CAUFlood`](https://pan.baidu.com/s/1i5yxdfwjP-oTyiRmq6FZHQ)
   - [`Wuhan`](http://gpcv.whu.edu.cn/data/)
 
-Crop all datasets into 256x256 patches.
+- Crop all datasets into 256x256 patches.
 
-2.2 Setting up conda environment
+#### 2.2 Setting up conda environment
++ Prerequisites for Python:
+    - Creating a virtual environment in terminal: `conda create -n SD-Mamba python=3.8`
+    - Installing necessary packages: `pip install -r requirements.txt `
 
-Prerequisites for Python:
+#### 2.3 tran & test & evaluation
++ Train/Test:
+   - `train.py`
+   - `test.py`
+   - `evalution.py`
 
-Creating a virtual environment in terminal: conda create -n SD-Mamba python=3.8
-
-Installing necessary packages: "pip install -r requirements.txt" 
-
-2.3 tran & test & evaluation
-
-train.py
-
-test.py
-
-evalution.py
-
-**3. Change Detection Results**
+### 3. Change Detection Results
 
 CAUFlood datset:
 
