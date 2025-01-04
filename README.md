@@ -8,17 +8,13 @@ Cross-modal flood change detection using optical and SAR images has become one o
     <img src="Figs/Figure1.pdf"/> <br />
 </p>
 
+### 2. Usage
+#### 2.1 Dataset
++ Prepare the data:
+    Download the change detection datasets from the following links. Place them inside your `data` folder.
 
-
-**2. Usage**
-
-2.1 Dataset
-
-Prepare the data: Download the change detection datasets from the following links. Place them inside your data folder.
-
-CAUFlood: https://pan.baidu.com/s/1i5yxdfwjP-oTyiRmq6FZHQ
-
-Wuhan: http://gpcv.whu.edu.cn/data/
+  - [`CAUFlood`](https://pan.baidu.com/s/1i5yxdfwjP-oTyiRmq6FZHQ)
+  - [`Wuhan`](http://gpcv.whu.edu.cn/data/)
 
 Crop all datasets into 256x256 patches.
 
