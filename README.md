@@ -1,4 +1,6 @@
 # <p align=center>` SD-Mamba: A lightweight synthetic-decompression network for cross-modal flood change detection`</p>
+> **Authors:**
+Yu Shen; Shuang Yao; Zhenkai Qiang; Guanxiang Pei
 
 ### 1. Overview
 
