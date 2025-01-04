@@ -16,3 +16,11 @@ CAUFlood: https://pan.baidu.com/s/1i5yxdfwjP-oTyiRmq6FZHQ
 Wuhan: http://gpcv.whu.edu.cn/data/
 
 Crop all datasets into 256x256 patches.
+
+2.2 Setting up conda environment
+
+Prerequisites for Python:
+
+Creating a virtual environment in terminal: conda create -n SD-Mamba python=3.8
+
+Installing necessary packages: pip install -r requirements.txt 
