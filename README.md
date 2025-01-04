@@ -24,3 +24,20 @@ Prerequisites for Python:
 Creating a virtual environment in terminal: conda create -n SD-Mamba python=3.8
 
 Installing necessary packages: pip install -r requirements.txt 
+
+2.3 tran & test & evaluation
+train.py
+
+test.py
+
+evalution.py
+
+**3. Change Detection Results**
+
+CAUFlood datset:
+
+![image](https://github.com/user-attachments/assets/160a4f45-7cc2-4241-8425-a428bce15679)
+
+Wuhan dataset:
+
+![image](https://github.com/user-attachments/assets/166a397a-a2fa-4c2a-aef8-8e20ad5fa2f3)
