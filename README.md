@@ -41,4 +41,3 @@ Cross-modal flood change detection using optical and SAR images has become one o
     <img src="Figs/Figure3.png"/> <br />
    Visualization results of SD-Mamba compared to 22 lightweight SOTA methods on the Wuhan dataset, the red boxes are drawn to highlight the advantages of SD-Mamba..
 </p>
-![image](https://github.com/user-attachments/assets/166a397a-a2fa-4c2a-aef8-8e20ad5fa2f3)
